@@ -11,6 +11,8 @@ import os.path
 
 def removeCharactersFromString(string):
 	temp = string
+	temp = temp.replace("   ", " ")
+	temp = temp.replace("  ", " ")
 	temp = temp.replace("\n", "")
 	temp = temp.replace("\r", "")
 	temp = temp.replace("<ul>", "")
@@ -84,7 +86,7 @@ def getAllLinks():
 
 # =================== Scrape all the data ==========================
 def createFiles(links):
-	i = 1
+	i = 1721
 	for link in links:
 
 		url = link
@@ -290,4 +292,4 @@ def createFiles(links):
 		fileToSaveData.write(json.dumps(jsonData))
 		fileToSaveData.close()
 		
-createFiles(list(set(getAllLinks())))
+createFiles(list(set(getAllLinks()))[1720:])

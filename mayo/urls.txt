@@ -1245,7 +1245,6 @@ http://www.mayoclinic.org/drugs-supplements/carbidopa-entacapone-and-levodopa-or
 http://www.mayoclinic.org/drugs-supplements/carbinoxamine-oral-route/description/drg-20060977
 http://www.mayoclinic.org/drugs-supplements/carbinoxamine-oral-route/description/drg-20060977
 http://www.mayoclinic.org/drugs-supplements/carbohydrate-and-electrolyte-combination-oral-route/description/drg-20070063
-http://www.mayoclinic.org/drugs-supplements/carbol-fuchsin-solution-topical-route/description/drg-20061417
 http://www.mayoclinic.org/drugs-supplements/carbonic-anhydrase-inhibitor-oral-route-parenteral-route/description/drg-20069373
 http://www.mayoclinic.org/drugs-supplements/carboplatin-intravenous-route/description/drg-20062578
 http://www.mayoclinic.org/drugs-supplements/carboprost-intramuscular-route/description/drg-20067975
@@ -1814,9 +1813,7 @@ http://www.mayoclinic.org/drugs-supplements/cysteamine-oral-route/description/dr
 http://www.mayoclinic.org/drugs-supplements/cysteamine-ophthalmic-route/description/drg-20075829
 http://www.mayoclinic.org/drugs-supplements/cysteamine-ophthalmic-route/description/drg-20075829
 http://www.mayoclinic.org/drugs-supplements/cysteamine-oral-route/description/drg-20068629
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
 http://www.mayoclinic.org/drugs-supplements/anticholinergics-and-antispasmodics-oral-route-parenteral-route-rectal-route-transdermal-route/description/drg-20070312
 http://www.mayoclinic.org/drugs-supplements/hexaminolevulinate-urinary-bladder-route/description/drg-20074307
@@ -2031,7 +2028,6 @@ http://www.mayoclinic.org/drugs-supplements/sulfonamide-oral-route/description/d
 http://www.mayoclinic.org/drugs-supplements/charcoal-activated-oral-route/description/drg-20070087
 http://www.mayoclinic.org/drugs-supplements/diazepam-rectal-route/description/drg-20072190
 http://www.mayoclinic.org/drugs-supplements/diazepam-rectal-route/description/drg-20072190
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/diazepam-injection-route/description/drg-20072274
 http://www.mayoclinic.org/drugs-supplements/diazepam-oral-route/description/drg-20072333
 http://www.mayoclinic.org/drugs-supplements/diazepam-rectal-route/description/drg-20072190
@@ -2590,7 +2586,6 @@ http://www.mayoclinic.org/drugs-supplements/liotrix-oral-route/description/drg-2
 http://www.mayoclinic.org/drugs-supplements/laxative-rectal-route/description/drg-20070715
 http://www.mayoclinic.org/drugs-supplements/estradiol-transdermal-route/description/drg-20075306
 http://www.mayoclinic.org/drugs-supplements/estrogen-oral-route-parenteral-route-topical-application-route-transdermal-route/description/drg-20069495
-http://www.mayoclinic.org/drugs-supplements/fibrinogen-and-thrombin-human-topical-application-route/description/drg-20146758
 http://www.mayoclinic.org/drugs-supplements/amphetamine-oral-route/description/drg-20150941
 http://www.mayoclinic.org/drugs-supplements/everolimus-oral-route/description/drg-20072842
 http://www.mayoclinic.org/drugs-supplements/raloxifene-oral-route/description/drg-20065760
@@ -2724,7 +2719,6 @@ http://www.mayoclinic.org/drugs-supplements/laxative-oral-route/description/drg-
 http://www.mayoclinic.org/drugs-supplements/fenofibric-acid-oral-route/description/drg-20072494
 http://www.mayoclinic.org/drugs-supplements/fibrin/description/drg-20138494
 http://www.mayoclinic.org/drugs-supplements/fibrinogen-intravenous-route/description/drg-20084858
-http://www.mayoclinic.org/drugs-supplements/fibrinogen-and-thrombin-human-topical-application-route/description/drg-20146758
 http://www.mayoclinic.org/drugs-supplements/fidaxomicin-oral-route/description/drg-20074965
 http://www.mayoclinic.org/drugs-supplements/filgrastim-injection-route/description/drg-20071547
 http://www.mayoclinic.org/drugs-supplements/azelaic-acid-topical-route/description/drg-20062084
@@ -3166,7 +3160,6 @@ http://www.mayoclinic.org/drugs-supplements/haloperidol-intramuscular-route/desc
 http://www.mayoclinic.org/drugs-supplements/haloperidol-oral-route/description/drg-20064173
 http://www.mayoclinic.org/drugs-supplements/ibuprofen-oral-route/description/drg-20070602
 http://www.mayoclinic.org/drugs-supplements/anesthetic-local-topical-application-route/description/drg-20070024
-http://www.mayoclinic.org/drugs-supplements/ledipasvir-and-sofosbuvir-oral-route/description/drg-20122589
 http://www.mayoclinic.org/drugs-supplements/hepatitis-a-vaccine-intramuscular-route/description/drg-20067499
 http://www.mayoclinic.org/drugs-supplements/hepatitis-a-vaccine-intramuscular-route/description/drg-20067499
 http://www.mayoclinic.org/drugs-supplements/cough-and-cold-combinations-oral-route/description/drg-20061164
@@ -3305,11 +3298,9 @@ http://www.mayoclinic.org/drugs-supplements/anticholinergics-and-antispasmodics-
 http://www.mayoclinic.org/drugs-supplements/hyoscyamine-methenamine-methylene-blue-phenyl-salicylate-and-sodium-phosphate-oral-route/description/drg-20075036
 http://www.mayoclinic.org/drugs-supplements/anticholinergics-and-antispasmodics-oral-route-parenteral-route-rectal-route-transdermal-route/description/drg-20070312
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
 http://www.mayoclinic.org/drugs-supplements/cholecystographic-agent-oral-route/description/drg-20070691
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/hepatitis-b-immune-globulin-intramuscular-route-intravenous-route/description/drg-20064160
 http://www.mayoclinic.org/drugs-supplements/rabies-immune-globulin-intramuscular-route/description/drg-20065738
 http://www.mayoclinic.org/drugs-supplements/rhod-immune-globulin-injection-route-intramuscular-route-intravenous-route/description/drg-20065796
@@ -3575,7 +3566,6 @@ http://www.mayoclinic.org/drugs-supplements/ixabepilone-intravenous-route/descri
 http://www.mayoclinic.org/drugs-supplements/ixazomib-oral-route/description/drg-20165209
 http://www.mayoclinic.org/drugs-supplements/ixekizumab-subcutaneous-route/description/drg-20311588
 http://www.mayoclinic.org/drugs-supplements/ixabepilone-intravenous-route/description/drg-20071386
-http://www.mayoclinic.org/drugs-supplements/japanese-encephalitis-virus-vaccine-inactivated-adsorbed-intramuscular-route/description/drg-20072758
 http://www.mayoclinic.org/drugs-supplements/coagulation-factor-ix-recombinant-intravenous-route/description/drg-20061220
 http://www.mayoclinic.org/drugs-supplements/factor-ix-intravenous-route-injection-route/description/drg-20063804
 http://www.mayoclinic.org/drugs-supplements/travoprost-ophthalmic-route/description/drg-20066464
@@ -3587,7 +3577,6 @@ http://www.mayoclinic.org/drugs-supplements/warfarin-oral-route/description/drg-
 http://www.mayoclinic.org/drugs-supplements/sitagliptin-and-metformin-oral-route/description/drg-20070903
 http://www.mayoclinic.org/drugs-supplements/sitagliptin-and-metformin-oral-route/description/drg-20070903
 http://www.mayoclinic.org/drugs-supplements/sitagliptin-oral-route/description/drg-20069730
-http://www.mayoclinic.org/drugs-supplements/japanese-encephalitis-virus-vaccine-inactivated-adsorbed-intramuscular-route/description/drg-20072758
 http://www.mayoclinic.org/drugs-supplements/empagliflozin-oral-route/description/drg-20113010
 http://www.mayoclinic.org/drugs-supplements/linagliptin-and-metformin-oral-route/description/drg-20075407
 http://www.mayoclinic.org/drugs-supplements/ocriplasmin-intraocular-route/description/drg-20075870
@@ -3758,7 +3747,6 @@ http://www.mayoclinic.org/drugs-supplements/azficel-t-intradermal-route/descript
 http://www.mayoclinic.org/drugs-supplements/laxative-oral-route/description/drg-20070683
 http://www.mayoclinic.org/drugs-supplements/laxative-rectal-route/description/drg-20070715
 http://www.mayoclinic.org/drugs-supplements/fentanyl-nasal-route/description/drg-20075020
-http://www.mayoclinic.org/drugs-supplements/ledipasvir-and-sofosbuvir-oral-route/description/drg-20122589
 http://www.mayoclinic.org/drugs-supplements/leflunomide-oral-route/description/drg-20067158
 http://www.mayoclinic.org/drugs-supplements/alemtuzumab-intravenous-route/description/drg-20067440
 http://www.mayoclinic.org/drugs-supplements/lenalidomide-oral-route/description/drg-20068352
@@ -5690,7 +5678,6 @@ http://www.mayoclinic.org/drugs-supplements/silodosin-oral-route/description/drg
 http://www.mayoclinic.org/drugs-supplements/sirolimus-oral-route/description/drg-20068199
 http://www.mayoclinic.org/drugs-supplements/fluoxetine-oral-route/description/drg-20063952
 http://www.mayoclinic.org/drugs-supplements/peramivir-intravenous-route/description/drg-20127716
-http://www.mayoclinic.org/drugs-supplements/fibrinogen-and-thrombin-human-topical-application-route/description/drg-20146758
 http://www.mayoclinic.org/drugs-supplements/rasagiline-oral-route/description/drg-20068415
 http://www.mayoclinic.org/drugs-supplements/rasburicase-intravenous-route/description/drg-20066958
 http://www.mayoclinic.org/drugs-supplements/methotrexate-injection-route-subcutaneous-route/description/drg-20064776
@@ -5763,10 +5750,7 @@ http://www.mayoclinic.org/drugs-supplements/antimyasthenic-oral-route-parenteral
 http://www.mayoclinic.org/drugs-supplements/treprostinil-injection-route/description/drg-20068380
 http://www.mayoclinic.org/drugs-supplements/chlorzoxazone-oral-route/description/drg-20071933
 http://www.mayoclinic.org/drugs-supplements/sevelamer-oral-route/description/drg-20065958
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
-http://www.mayoclinic.org/drugs-supplements/diatrizoate-intravenous-route/description/drg-20150982
 http://www.mayoclinic.org/drugs-supplements/radiopaque-agent--diagnostic-oral-route-rectal-route-intravenous-route-intra-arterial-route-intraspinal-route/description/drg-20070219
 http://www.mayoclinic.org/drugs-supplements/tretinoin-topical-route/description/drg-20066521
 http://www.mayoclinic.org/drugs-supplements/sevelamer-oral-route/description/drg-20065958
@@ -6405,7 +6389,6 @@ http://www.mayoclinic.org/drugs-supplements/hylan-polymers-a-and-b-injection-rou
 http://www.mayoclinic.org/drugs-supplements/trientine-oral-route/description/drg-20066488
 http://www.mayoclinic.org/drugs-supplements/sodium-chloride-injection-route/description/drg-20068846
 http://www.mayoclinic.org/drugs-supplements/thioguanine-oral-route/description/drg-20066349
-http://www.mayoclinic.org/drugs-supplements/fibrinogen-and-thrombin-human-topical-application-route/description/drg-20146758
 http://www.mayoclinic.org/drugs-supplements/betamethasone-and-calcipotriene-topical-application-route/description/drg-20071863
 http://www.mayoclinic.org/drugs-supplements/betamethasone-and-calcipotriene-topical-application-route/description/drg-20071863
 http://www.mayoclinic.org/drugs-supplements/tacrine-oral-route/description/drg-20066186
